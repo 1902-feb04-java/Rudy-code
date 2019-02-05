@@ -2,3 +2,5 @@ first test
 jasdhf
 sd
 firstdf
+ new changes via nano text editor to practice terminal commands in GIT
+
